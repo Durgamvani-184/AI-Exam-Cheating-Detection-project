@@ -37,4 +37,4 @@ This system can be used by educational institutions to monitor students
 during online exams and prevent cheating.
 
 ## Author
-Durgamani
+Durgam Vani
